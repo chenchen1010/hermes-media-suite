@@ -1,3 +1,5 @@
+
+
 # hermes-media-suite
 
 一台109一年的云服务器 + Hermes，跑起两个真能干活的 agent：
@@ -26,7 +28,7 @@ docs/deploy-cheap-server.md   从买服务器到跑通的完整教程
 
 ## 快速开始
 
-打开 [INSTALL_PROMPT.md](INSTALL_PROMPT.md)，把前置资料备齐、提示词填好，
+打开 [INSTALL_PROMPT.md](INSTALL_PROMPT.md)，把前置资料备齐、提示词里的【】填好，
 丢给你的 Codex / Claude Code，它替你装完整套。
 
 ## 把账算明白
